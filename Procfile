@@ -1,0 +1,1 @@
+web: gunicorn baitap.wsgi --log-file -
